@@ -1,0 +1,44 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(143,9,204,1) 24%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.area {
+    background-color: white;
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.remenber {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.gray {
+    color: #999999;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.input {
+    padding: 5px;
+}
+
+.esqueci {
+    display: block;
+    padding-bottom: 20px;
+}
